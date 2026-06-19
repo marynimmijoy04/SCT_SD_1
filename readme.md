@@ -1,6 +1,6 @@
 # Temperature Converter (C++)
 
-A simple C++ program that converts temperatures between Celsius, Fahrenheit, and Kelvin scales using a menu-driven interface.
+A C++ program that converts temperatures between Celsius, Fahrenheit, and Kelvin scales using a menu-driven interface.
 
 ## Features
 - Celsius to Fahrenheit
